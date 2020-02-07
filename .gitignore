@@ -10,5 +10,9 @@ paint-avlTree/obj/*
 avlTree/Trees/bin/*
 avlTree/Trees/obj/*
 
+formButtonsSQL/bin/*
+formButtonsSQL/obj/*
+formButtonsSQL/.vs/*
+
 .vs/*
 AList/.vs/*
