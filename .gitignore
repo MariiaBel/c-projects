@@ -4,5 +4,7 @@ AList/AList/obj/*
 AList/UnitTest/bin/*
 AList/UnitTest/obj/*
 
+paint-avlTree/bin/*
+paint-avlTree/obj/*
+
 .vs/*
-AList/.vs/*
