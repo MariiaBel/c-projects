@@ -12,7 +12,11 @@ avlTree/Trees/obj/*
 
 formButtonsSQL/bin/*
 formButtonsSQL/obj/*
-formButtonsSQL/.vs/*
+
+graphs/bin/*
+graphs/obj/*
 
 .vs/*
 AList/.vs/*
+graphs/.vs/*
+formButtonsSQL/.vs/*
