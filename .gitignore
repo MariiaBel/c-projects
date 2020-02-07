@@ -16,7 +16,11 @@ formButtonsSQL/obj/*
 graphs/bin/*
 graphs/obj/*
 
+token/bin/*
+token/obj/*
+
 .vs/*
 AList/.vs/*
 graphs/.vs/*
 formButtonsSQL/.vs/*
+token/.vs/*
